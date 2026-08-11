@@ -1,0 +1,15 @@
+C:\BC\PRG281\PRG281_Proj\Fleet_Management_App\Fleet_Management_App\bin\Debug\net10.0\Fleet_Management_App.exe
+C:\BC\PRG281\PRG281_Proj\Fleet_Management_App\Fleet_Management_App\bin\Debug\net10.0\Fleet_Management_App.deps.json
+C:\BC\PRG281\PRG281_Proj\Fleet_Management_App\Fleet_Management_App\bin\Debug\net10.0\Fleet_Management_App.runtimeconfig.json
+C:\BC\PRG281\PRG281_Proj\Fleet_Management_App\Fleet_Management_App\bin\Debug\net10.0\Fleet_Management_App.dll
+C:\BC\PRG281\PRG281_Proj\Fleet_Management_App\Fleet_Management_App\bin\Debug\net10.0\Fleet_Management_App.pdb
+C:\BC\PRG281\PRG281_Proj\Fleet_Management_App\Fleet_Management_App\obj\Debug\net10.0\Fleet_Management_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\BC\PRG281\PRG281_Proj\Fleet_Management_App\Fleet_Management_App\obj\Debug\net10.0\Fleet_Management_App.AssemblyInfoInputs.cache
+C:\BC\PRG281\PRG281_Proj\Fleet_Management_App\Fleet_Management_App\obj\Debug\net10.0\Fleet_Management_App.AssemblyInfo.cs
+C:\BC\PRG281\PRG281_Proj\Fleet_Management_App\Fleet_Management_App\obj\Debug\net10.0\Fleet_Management_App.csproj.CoreCompileInputs.cache
+C:\BC\PRG281\PRG281_Proj\Fleet_Management_App\Fleet_Management_App\obj\Debug\net10.0\Fleet_Management_App.sourcelink.json
+C:\BC\PRG281\PRG281_Proj\Fleet_Management_App\Fleet_Management_App\obj\Debug\net10.0\Fleet_Management_App.dll
+C:\BC\PRG281\PRG281_Proj\Fleet_Management_App\Fleet_Management_App\obj\Debug\net10.0\refint\Fleet_Management_App.dll
+C:\BC\PRG281\PRG281_Proj\Fleet_Management_App\Fleet_Management_App\obj\Debug\net10.0\Fleet_Management_App.pdb
+C:\BC\PRG281\PRG281_Proj\Fleet_Management_App\Fleet_Management_App\obj\Debug\net10.0\Fleet_Management_App.genruntimeconfig.cache
+C:\BC\PRG281\PRG281_Proj\Fleet_Management_App\Fleet_Management_App\obj\Debug\net10.0\ref\Fleet_Management_App.dll
