@@ -1,0 +1,7 @@
+C:\BC\PRG281\Assignment1\Assignment1\Assesment\bin\Debug\Assesment.exe.config
+C:\BC\PRG281\Assignment1\Assignment1\Assesment\bin\Debug\Assesment.exe
+C:\BC\PRG281\Assignment1\Assignment1\Assesment\bin\Debug\Assesment.pdb
+C:\BC\PRG281\Assignment1\Assignment1\Assesment\obj\Debug\Assesment.csproj.AssemblyReference.cache
+C:\BC\PRG281\Assignment1\Assignment1\Assesment\obj\Debug\Assesment.csproj.CoreCompileInputs.cache
+C:\BC\PRG281\Assignment1\Assignment1\Assesment\obj\Debug\Assesment.exe
+C:\BC\PRG281\Assignment1\Assignment1\Assesment\obj\Debug\Assesment.pdb
